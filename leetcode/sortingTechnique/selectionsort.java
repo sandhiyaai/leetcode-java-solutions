@@ -10,7 +10,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Codechef
+class Solution
 {
     public static void selectionSort(int[] arr) {
         int n = arr.length;
